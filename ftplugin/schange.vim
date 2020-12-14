@@ -12,5 +12,4 @@ if exists('b:did_ftplugin')
 endif
 let b:did_ftplubin = 1
 
-setlocal commentstring=\/\* %s \*/
-setlocal comments=:/*
+setlocal commentstring=\/\*\ %s\ \*/
